@@ -1,0 +1,157 @@
+.mainDashboardDivs{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: lightcoral;     */
+}
+.taskNumberDiv{
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5%;
+    /* background-color: rgb(234, 176, 82); */
+}
+.cardNumbers1{
+    width: 32%;
+    height: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px ;
+    cursor: pointer;
+    background-color: rgb(210, 210, 210);
+}
+.cardNumbers1 p{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 5%;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardNumbers1 h1{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardNumbers2{
+    width: 32%;
+    height: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px ;
+    background-color:#fbe2c1;
+    cursor: pointer;
+}
+.cardNumbers2 p{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 5%;
+    font-weight: 700;
+    color: #FF9C07;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardNumbers2 h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: #FF9C07;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardNumbers3{
+    width: 32%;
+    height: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px ;
+    cursor: pointer;
+    background-color: rgb(198, 234, 198);
+}
+.cardNumbers3 p{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 5%;
+    font-weight: 700;
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardNumbers3 h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.itemOrderDiv{
+    width: 92%;
+    height: 63%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 2%;
+    box-shadow: 0 0 10px rgb(235, 234, 234);
+    background-color: white;
+}
+.companyDiv{
+    width: 95%;
+    height: 10%;
+    margin-top: 2%;
+    display: flex;
+    border-bottom: 1px solid rgb(222, 220, 220);
+    /* background-color: rgb(205, 194, 194); */
+}
+.companyDiv p{
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 19px;
+    margin-right: 7%;
+    padding-right: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* box-shadow: 0 0 10px rgb(235, 234, 234); */
+    /* background-color: rgb(141, 108, 108); */
+}
+.companyDiv2{
+    width: 95%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    overflow-y: scroll;
+    /* background-color: rgb(250, 170, 170); */
+}
+.orderItems{
+    width: 100%;
+    height: 15%;
+    margin-top: 0.9%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid rgb(209, 232, 255);
+    box-shadow: 0 0 10px rgb(218, 213, 213);
+    /* background-color: rgb(187, 164, 164); */
+}
+.orderOtems p{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+.commmImage {
+    width: 5%;
+    height: 90%;
+    background-color: aquamarine;
+    border-radius: 50%;
+    font-weight: 600;
+    object-fit: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: white; */
+}
+
+
+
+
+
+
+
