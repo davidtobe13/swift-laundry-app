@@ -26,7 +26,7 @@
 .registerdLogoContainers {
     height: 20%;
     width: 90%;
-    background: red;
+    /* background: red; */
     display: flex;
     justify-content: center;
     align-items: center;

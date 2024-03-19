@@ -24,7 +24,7 @@
 
 .offerTopDiv samp {
     font-size: 32px;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     font-weight: bold;
     /* margin-top: 3%; */
     /* background-color: rgb(214, 151, 151); */
@@ -77,18 +77,19 @@
 
 .payOnlineDiv {
     width: 23%;
-    height: 70%;
+    height: 65%;
     border-radius: 10px;
     margin-bottom: 3%;
     display: flex;
     align-items: center;
+    /* justify-content: center; */
     flex-direction: column;
     background-color: white;
 }
 
 .payOnlineLogo {
-    width: 48px;
-    height: 48px;
+    width: 52px;
+    height: 52px;
     border-radius: 10px;
     margin-top: 6%;
     /* background-color: rgb(194, 185, 185); */
@@ -96,6 +97,7 @@
     justify-content: center;
     align-items: center;
 }
+
 
 .payOnlineDiv h2 {
     font-size: 18px;
@@ -195,7 +197,7 @@
 
     .offerTopDiv samp {
         font-size: 32px;
-        font-family: 'Times New Roman', Times, serif;
+        /* font-family: 'Times New Roman', Times, serif; */
         font-weight: bold;
         /* margin-top: 3%; */
         /* background-color: rgb(214, 151, 151); */
@@ -349,7 +351,7 @@
 
     .offerTopDiv samp {
         font-size: 32px;
-        font-family: 'Times New Roman', Times, serif;
+        /* font-family: 'Times New Roman', Times, serif; */
         font-weight: bold;
         /* margin-top: 3%; */
         /* background-color: rgb(214, 151, 151); */

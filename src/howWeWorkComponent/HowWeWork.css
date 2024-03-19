@@ -17,7 +17,7 @@
 .weWorkTopDiv p {
     font-size: 17px;
     margin-top: 5%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     /* background-color: rgb(214, 151, 151); */
 }
 
@@ -25,7 +25,7 @@
     font-size: 32px;
     /* font-family: 'Times New Roman', Times, serif; */
     font-weight: bold;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 
     /* margin-top: 3%; */
     /* background-color: rgb(214, 151, 151); */
@@ -64,14 +64,14 @@
 .pickUpDiv h2 {
     font-size: 18px;
     padding-top: 16px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 .pickUpDiv p {
     font-size: 14px;
     text-align: center;
     padding-inline: 7%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     padding-top: 14px;
 }
 
@@ -101,7 +101,7 @@
 .washDiv h2 {
     font-size: 18px;
     padding-top: 16px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 .washDiv p {
@@ -109,7 +109,7 @@
     text-align: center;
     padding-inline: 7%;
     padding-top: 14px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 
 }
 
@@ -139,7 +139,7 @@
 .deliverDiv h2 {
     font-size: 18px;
     padding-top: 16px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 
 }
 
@@ -148,7 +148,7 @@
     text-align: center;
     padding-inline: 7%;
     padding-top: 14px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 
 }
 
@@ -175,7 +175,7 @@
     .weWorkTopDiv p {
         font-size: 17px;
         margin-top: 5%;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
         /* background-color: rgb(214, 151, 151); */
     }
     
@@ -183,7 +183,7 @@
         font-size: 32px;
         /* font-family: 'Times New Roman', Times, serif; */
         font-weight: bold;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     
         /* margin-top: 3%; */
         /* background-color: rgb(214, 151, 151); */
@@ -223,14 +223,14 @@
     .pickUpDiv h2 {
         font-size: 18px;
         padding-top: 16px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     }
     
     .pickUpDiv p {
         font-size: 14px;
         text-align: center;
         padding-inline: 7%;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
         padding-top: 14px;
     }
     
@@ -260,7 +260,7 @@
     .washDiv h2 {
         font-size: 18px;
         padding-top: 16px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     }
     
     .washDiv p {
@@ -268,7 +268,7 @@
         text-align: center;
         padding-inline: 7%;
         padding-top: 14px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     
     }
     
@@ -298,7 +298,7 @@
     .deliverDiv h2 {
         font-size: 18px;
         padding-top: 16px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     
     }
     
@@ -307,7 +307,7 @@
         text-align: center;
         padding-inline: 7%;
         padding-top: 14px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     
     }
 }
@@ -343,7 +343,7 @@
 
     .weWorkTopDiv samp {
         font-size: 28px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
         font-weight: bold;
         /* margin-top: 3%; */
         /* background-color: rgb(214, 151, 151); */

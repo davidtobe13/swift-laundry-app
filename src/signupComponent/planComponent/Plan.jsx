@@ -16,7 +16,6 @@ const Plan = () => {
           <div className='MoneyContainer1'>
             <h1>#22,000/ month</h1>
             <h3>Monthly plan</h3>
-            <h5></h5>
           </div>
           <div className='MoneyContainer2'>
             <div className='Customer'>
@@ -49,26 +48,25 @@ const Plan = () => {
           <div className='MoneyContainer1'>
             <h1>#200,000/ year</h1>
             <h3>yearly plan</h3>
-            <h5></h5>
           </div>
           <div className='MoneyContainer2'>
-            <div className='Customer'>
+            <div className='Customer sev'>
               <img src="./mark.png" alt="" className="confirmLogo" />
               <h5>100% Customer Satisfaction</h5>
             </div>
-            <div className='Pick'>
+            <div className='Pick sev'>
               <img src="./mark.png" alt="" className="confirmLogo" />
               <h5>Fast Pick and Delivery</h5>
             </div>
-            <div className='Prices'>
+            <div className='Prices sev'>
               <img src="./mark.png" alt="" className="confirmLogo" />
               <h5>Affordable percentage</h5>
             </div>
-            <div className='Affordable'>
+            <div className='Affordable sev'>
               <img src="./mark.png" alt="" className="confirmLogo" />
               <h5>Affordable Prices</h5>
             </div>
-            <div className='Affordable'>
+            <div className='Affordable sev'>
               <img src="./mark.png" alt="" className="confirmLogo" />
               <h5>Affordable Prices</h5>
             </div>
